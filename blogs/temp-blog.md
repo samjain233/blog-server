@@ -1,4 +1,4 @@
-## Title
+## Title of the blog
 
 ## Table of Contents
 - [Introduction](#introduction)
