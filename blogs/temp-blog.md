@@ -9,7 +9,7 @@
 ## Introduction
 Provide a brief introduction to the document.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis commodi beatae sint? Et debitis veritatis voluptates ut, sint, est, eos modi expedita fugiat atque tenetur amet earum voluptatum doloremque eaque temporibus. Magni minus impedit delectus dolorum sint explicabo libero repellat vel officiis natus odit incidunt ad nemo similique voluptatum quia odio quas modi, ipsam et esse eum dicta sit. Quidem, eaque? Voluptatem recusandae illo optio est, saepe quam iusto aliquam cum voluptatibus at debitis pariatur, necessitatibus eligendi, fugiat assumenda reiciendis! Inventore possimus itaque illum sapiente hic tempora error eum sint quas ut voluptas unde dolorem, maxime aut doloremque officia fuga?
 
-<CustomeImage src="blog1/1.jpg" alt="my first image retrieval" />
+<CustomImage src="blog1/1.jpg" alt="my first image retrieval" />
 
 ## Section 1
 Write your content for the first section here.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis commodi beatae sint? Et debitis veritatis voluptates ut, sint, est, eos modi expedita fugiat atque tenetur amet earum voluptatum doloremque eaque temporibus. Magni minus impedit delectus dolorum sint explicabo libero repellat vel officiis natus odit incidunt ad nemo similique voluptatum quia odio quas modi, ipsam et esse eum dicta sit. Quidem, eaque? Voluptatem recusandae illo optio est, saepe quam iusto aliquam cum voluptatibus at debitis pariatur, necessitatibus eligendi, fugiat assumenda reiciendis! Inventore possimus itaque illum sapiente hic tempora error eum sint quas ut voluptas unde dolorem, maxime aut doloremque officia fuga?
