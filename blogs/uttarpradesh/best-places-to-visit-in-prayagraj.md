@@ -1,6 +1,6 @@
 ## Triveni Sangam
 
-<CustomImage src="best-places-to-visit-in-prayagraj/sangam-min.png" alt="tiveni sangam , prayagraj">
+<CustomImage src="best-places-to-visit-in-prayagraj/sangam-min.png" alt="tiveni sangam , prayagraj" />
 
 Triveni Sangam, in Allahabad, is where the holy Ganga, Yamuna, and Saraswati rivers meet. This place is deeply revered in Hinduism. The city is often called Sangam because of its connection to this sacred confluence. Every 12 years, it hosts the grand Kumbh Mela, and every six years, the Ardh Kumbh. During these festivals, millions take a dip to cleanse their souls.
 
@@ -12,7 +12,7 @@ You can make your visit even more special by taking a boat ride. You have two ch
 
 ## Allahabad Fort
 
-<CustomImage src="best-places-to-visit-in-prayagraj/akbarfort.jpg" alt="Allahabad Fort (Akbar Fort) , prayagraj">
+<CustomImage src="best-places-to-visit-in-prayagraj/akbarfort.jpg" alt="Allahabad Fort (Akbar Fort) , prayagraj" />
 
 After you've enjoyed the beauty of Triveni Sangam, make sure to visit Allahabad Fort. This old fort was first built by Emperor Ashoka and got a big upgrade from Emperor Akbar in 1583, blending two different styles from different times.
 
@@ -22,11 +22,11 @@ Now, the Indian Army takes care of most of the fort, but there's a part that's o
 
 ## Kushro Bagh
 
-<CustomImage src="best-places-to-visit-in-prayagraj/khusro1.png" alt="kushro bagh , prayagraj">
+<CustomImage src="best-places-to-visit-in-prayagraj/khusro1.png" alt="kushro bagh , prayagraj" />
 
 Kushro Bagh is a fascinating place for history enthusiasts, situated near prayagraj railway station. This park gets its name from Prince Khusro, the eldest son of Mughal Emperor Jahangir. The reason it's so famous is because it's where they held him captive due to differences in beliefs with his father. He tried to escape but sadly, his own brother, who later became Emperor Shah Jahan, ordered his death.
 
-<CustomImage src="best-places-to-visit-in-prayagraj/kushro2.png" alt="kushro bagh map, prayagraj">
+<CustomImage src="best-places-to-visit-in-prayagraj/kushro2.png" alt="kushro bagh map, prayagraj" />
 
 The park itself is quite lovely, with a beautiful garden and three impressive sandstone mausoleums. One of these is for Prince Khusro, and the other two are for his wife and sister. These mausoleums show off the stunning Mughal architecture.
 
@@ -36,7 +36,7 @@ Prince Khusro's story is both sad and historically important. He was kept in Kus
 
 ## Chandrashekhar Azad Park
 
-<CustomImage src="best-places-to-visit-in-prayagraj/azadpark.jpg" alt="Chandrashekhar Azad Park, prayagraj">
+<CustomImage src="best-places-to-visit-in-prayagraj/azadpark.jpg" alt="Chandrashekhar Azad Park, prayagraj" />
 
 Spanning a vast 133 acres, Chandrashekhar Azad Park is a lovely public park in Allahabad. Back during the rule of the East India Company, it went by the names Alfred Park or Company Bagh. This park's origins date back to 1870 when it was created to mark Prince Alfred's visit to Prayagraj.
 
