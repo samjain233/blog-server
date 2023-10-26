@@ -1,4 +1,4 @@
-## Triveni Sangam
+## 1.Triveni Sangam
 
 <CustomImage src="best-places-to-visit-in-prayagraj/sangam-min.png" alt="tiveni sangam , prayagraj" />
 
@@ -10,7 +10,7 @@ You can make your visit even more special by taking a boat ride. You have two ch
 
 **best time to visit :** early morning
 
-## Allahabad Fort
+## 2.Allahabad Fort
 
 <CustomImage src="best-places-to-visit-in-prayagraj/akbarfort.jpg" alt="Allahabad Fort (Akbar Fort) , prayagraj" />
 
@@ -20,21 +20,21 @@ Now, the Indian Army takes care of most of the fort, but there's a part that's o
 
 **Entry fee :** Free
 
-## Kushro Bagh
+## 3.Kushro Bagh
 
 <CustomImage src="best-places-to-visit-in-prayagraj/khusro1.png" alt="kushro bagh , prayagraj" />
 
 Kushro Bagh is a fascinating place for history enthusiasts, situated near prayagraj railway station. This park gets its name from Prince Khusro, the eldest son of Mughal Emperor Jahangir. The reason it's so famous is because it's where they held him captive due to differences in beliefs with his father. He tried to escape but sadly, his own brother, who later became Emperor Shah Jahan, ordered his death.
 
-<CustomImage src="best-places-to-visit-in-prayagraj/kushro2.png" alt="kushro bagh map, prayagraj" />
-
 The park itself is quite lovely, with a beautiful garden and three impressive sandstone mausoleums. One of these is for Prince Khusro, and the other two are for his wife and sister. These mausoleums show off the stunning Mughal architecture.
+
+<CustomImage src="best-places-to-visit-in-prayagraj/kushro2.png" alt="kushro bagh map, prayagraj" />
 
 Prince Khusro's story is both sad and historically important. He was kept in Kushro Bagh for standing up against his father and paid a high price for it. Visiting this place in Allahabad is like taking a step back in time and experiencing both its historical significance and architectural beauty.
 
 **Entry fee :** Free
 
-## Chandrashekhar Azad Park
+## 4.Chandrashekhar Azad Park
 
 <CustomImage src="best-places-to-visit-in-prayagraj/azadpark.jpg" alt="Chandrashekhar Azad Park, prayagraj" />
 
@@ -45,3 +45,12 @@ Nowadays, this enormous green space is a great place for both tourists and local
 There are plenty of restaurants and food markets close to Chandrashekhar Azad Park. You can have some tasty meals there and enjoy good food near the park.
 
 **Entry fee :** Rs 5
+
+## 5.Naini Bridge
+
+<CustomImage src="best-places-to-visit-in-prayagraj/nainibridge.jpg" alt="Chandrashekhar Azad Park, prayagraj" />
+
+The New Yamuna Bridge is a beautiful bridge in Prayagraj that goes over the Yamuna River, connecting the city to Naini. It looks stunning at night because of the colorful lights on the bridge. It's a great place to visit in the evening.
+
+<CustomImage src="best-places-to-visit-in-prayagraj/nai" alt="Chandrashekhar Azad Park, prayagraj" />
+
