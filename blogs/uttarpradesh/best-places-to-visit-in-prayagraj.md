@@ -52,5 +52,27 @@ There are plenty of restaurants and food markets close to Chandrashekhar Azad Pa
 
 The New Yamuna Bridge is a beautiful bridge in Prayagraj that goes over the Yamuna River, connecting the city to Naini. It looks stunning at night because of the colorful lights on the bridge. It's a great place to visit in the evening.
 
+## 6.Anand Bhavan
 
+<CustomImage src="best-places-to-visit-in-prayagraj/anandbhawan.jpg" alt="Anand Bhavan, prayagraj" />
+
+Anand Bhavan is a renowned historic house museum located in Prayagraj, India, and it holds special significance as it offers an in-depth look into the life and legacy of the Nehru family. Within its walls, visitors have the unique opportunity to explore the rich history and personal artifacts of this influential family. The museum's extensive collection includes a diverse array of items such as clothing, an impressive library of books, and a glimpse into the furniture and living spaces used by the Nehru family, providing an immersive experience into their way of life.
+
+**Entry Fee** Rs 70 
+
+## 7.Alopi Devi Mandir
+
+<CustomImage src="best-places-to-visit-in-prayagraj/alopimandir.jpg" alt="Alopi Devi Mandir, prayagraj" />
+
+The temple gets its name from a fascinating story. Long ago, Lord Shiva was very sad when his wife, Sati, passed away. He carried her body in the sky. To help him, Lord Vishnu threw his Chakra, and parts of Sati's body fell at different places in India. The last part fell here, at Alopi (meaning "disappeared"), making it a holy place.
+
+Another tale says that in ancient times, a bride in a wedding procession vanished in a forest full of robbers. This mystery led to the temple's name, Alopi Devi, the goddess who disappeared.
+
+People in Prayagraj still worship Alopi Devi and celebrate their important moments with her. Visiting this temple is a chance to explore intriguing legends and the strong faith of the locals. It's a must-see spot in Prayagraj for those interested in its rich history and spiritual culture.
+
+## Best time to visit Allahabad ?
+**August-October** is the best time to visit prayagraj. 
+
+## How many days are enough for exploring Allahabad?
+**1-2** days are enough for Allahabad , if you are planning a trip of 2-3 or more days then you can go to varanasi which is situated at 100kms from prayagraj.
 
