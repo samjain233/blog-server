@@ -48,7 +48,7 @@ There are plenty of restaurants and food markets close to Chandrashekhar Azad Pa
 
 ## 5.Naini Bridge
 
-<CustomImage src="best-places-to-visit-in-prayagraj/nainibridge.jpg" alt="Chandrashekhar Azad Park, prayagraj" />
+<CustomImage src="best-places-to-visit-in-prayagraj/nainibridge.png" alt="Chandrashekhar Azad Park, prayagraj" />
 
 The New Yamuna Bridge is a beautiful bridge in Prayagraj that goes over the Yamuna River, connecting the city to Naini. It looks stunning at night because of the colorful lights on the bridge. It's a great place to visit in the evening.
 
