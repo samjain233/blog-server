@@ -28,8 +28,6 @@ Kushro Bagh is a fascinating place for history enthusiasts, situated near prayag
 
 The park itself is quite lovely, with a beautiful garden and three impressive sandstone mausoleums. One of these is for Prince Khusro, and the other two are for his wife and sister. These mausoleums show off the stunning Mughal architecture.
 
-<!-- <CustomImage src="best-places-to-visit-in-prayagraj/kushro2.png" alt="kushro bagh map, prayagraj" /> -->
-
 Prince Khusro's story is both sad and historically important. He was kept in Kushro Bagh for standing up against his father and paid a high price for it. Visiting this place in Allahabad is like taking a step back in time and experiencing both its historical significance and architectural beauty.
 
 **Entry fee :** Free
