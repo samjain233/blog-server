@@ -68,9 +68,9 @@ Another tale says that in ancient times, a bride in a wedding procession vanishe
 
 People in Prayagraj still worship Alopi Devi and celebrate their important moments with her. Visiting this temple is a chance to explore intriguing legends and the strong faith of the locals. It's a must-see spot in Prayagraj for those interested in its rich history and spiritual culture.
 
-## Best time to visit Allahabad ?
+### Best time to visit Allahabad ?
 **August-October** is the best time to visit prayagraj. 
 
-## How many days are enough for exploring Allahabad?
+### How many days are enough for exploring Allahabad?
 **1-2** days are enough for Allahabad , if you are planning a trip of 2-3 or more days then you can go to varanasi which is situated at 100kms from prayagraj.
 
